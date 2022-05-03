@@ -6,7 +6,7 @@ Instrutores: Jorge Sant Ana, Jamilton Damasceno
 Seção: 4 - CSS3
 Intervalo de aulas: da 49 a 51
 
-Projeto "BlueTech" é baseado no conteúdo abordado nas aulas do curso supracitado, com adaptações pessoais.
+Projeto "BlueTech" é baseado no conteúdo abordado nas aulas do curso supracitado, com adaptações pessoais (fonte) e inclusão de tags semânticas.
 
 Tecnologias utilizadas: HTML5 (como linguagem de marcação) e CSS3 (como linguagem de estilização).
 
